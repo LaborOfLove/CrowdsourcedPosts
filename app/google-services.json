@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "681081711979",
+    "firebase_url": "https://crowdsourcesocialposts.firebaseio.com",
+    "project_id": "crowdsourcesocialposts",
+    "storage_bucket": "crowdsourcesocialposts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681081711979:android:7fe7e11f4b0393bf",
+        "android_client_info": {
+          "package_name": "studio.laboroflove.naarad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681081711979-hjqabnblej25uqofr5opaqo8f6hmdpt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MqAjzZDYOBZ_slGVaLz03VNQhYmxl5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681081711979:android:b2635c24110d5b5a",
+        "android_client_info": {
+          "package_name": "studio.labouroflove.twcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681081711979-hjqabnblej25uqofr5opaqo8f6hmdpt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MqAjzZDYOBZ_slGVaLz03VNQhYmxl5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
